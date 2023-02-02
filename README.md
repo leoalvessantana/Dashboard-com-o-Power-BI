@@ -4,7 +4,7 @@ O setor de RH de uma empresa deseja obter algumas informações através dos dad
 
 <dl>
 	<dd> 1. Quantas admissões e desligamentos por mês? </dd>
-  <dd> 2. Quantos funcionários ativos por estado?  </dd>
+  <dd> 2. Quantos funcionários ativos?  </dd>
   <dd> 3. Quantos foram desligados?  </dd>
   <dd> 4. Como está o percentual de absenteísmo no ano atual sabendo que a meta é 10%.  </dd>
   <dd> 5. Como está o Turnover geral da empresa do ano atual sabendo que a meta é 5%.  </dd>
