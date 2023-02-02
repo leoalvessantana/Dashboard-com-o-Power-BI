@@ -3,17 +3,17 @@
 
 ### 1º Passo:
 
-Inicialmente exportamos os dados para o Power BI. 
+Inicialmente ***exportamos os dados*** para o Power BI. 
 
 
 ### 2º Passo:
 
-Em seguida foi necessario realizar alguns tratamentos nos dados no Power Query, renomeamos a coluna Salario para SalarioAno já que se refere ao salario anual dos funcionarios, criamos uma coluna SalarioMes a partir da coluna SalarioAno e nas colunas de datas mudamos a localidade para inglês EUA.
+Em seguida foi necessario realizar alguns ***tratamentos nos dados no Power Query***, renomeamos a coluna Salario para SalarioAno já que se refere ao salario anual dos funcionarios, criamos uma coluna SalarioMes a partir da coluna SalarioAno e nas colunas de datas mudamos a localidade para inglês EUA.
 
 
 ### 3º Passo:
 
-Após tratar os dados, importamos a base de dados para dentro do Power BI Desktop e criamos algumas medidas para desenvolver as visualizações.
+Após tratar os dados, importamos a base de dados para dentro do Power BI Desktop e ***criamos algumas medidas*** para desenvolver as visualizações.
 
 Medidas criadas:
 
@@ -54,7 +54,7 @@ Medidas criadas:
 
 ### 4º Passo:
 
-Criamos as visualizações
+***Criamos as visualizações***.
 
 
 
