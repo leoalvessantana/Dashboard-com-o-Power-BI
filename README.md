@@ -13,3 +13,4 @@ O setor de RH de uma empresa deseja obter algumas informações através dos dad
 
 Vamos desenvolver um dashboard que responda todas as perguntas acima e ainda vamos estruturar uma apresentação com o Power BI Desktop.
 
+
