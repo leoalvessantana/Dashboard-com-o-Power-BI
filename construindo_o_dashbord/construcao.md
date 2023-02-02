@@ -52,4 +52,12 @@ Medidas criadas:
 
 
 
+### 4º Passo:
+
+Criamos as visualizações
+
+
+
+
+
 
