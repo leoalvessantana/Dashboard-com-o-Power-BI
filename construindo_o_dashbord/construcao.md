@@ -57,6 +57,18 @@ Medidas criadas:
 ***Criamos as visualizações***.
 
 
+### 5º Passo:
+
+Nesse passo ***personalizamos o dashboard***. Utilizamos algumas imagens fornecidas pela Alura, criamos um menu com alguns filtros utilizando indicadores, deixamos o dashboard acessivel usando tabulação.
+
+### 5º Passo:
+
+Por fim criamos ***uma apresentação com slides*** contando uma historia sobre os resultados encontrados.
+
+
+
+
+
 
 
 
