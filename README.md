@@ -15,9 +15,9 @@ Desenvolvemos um dashboard respondendo todas as perguntas acima e ainda estrutur
 
  [Passo a passo da construção do projeto](https://github.com/leoalvessantana/Dashboard-com-o-Power-BI/tree/main/construindo_o_dashbord) 
  
-[Projeto](https://github.com/leoalvessantana/Dashboard-com-o-Power-BI/blob/main/Projeto_rh.pbix)
+[Projeto finalizado](https://github.com/leoalvessantana/Dashboard-com-o-Power-BI/blob/main/Projeto_rh.pbix)
 
-link: https://app.powerbi.com/links/3vmwdnirKR?ctid=a94f151c-2792-498c-9a78-3096edc8175c&pbi_source=linkShare&bookmarkGuid=edfa495c-1193-44b7-8466-c432280945fc
+link do projeto: https://app.powerbi.com/links/3vmwdnirKR?ctid=a94f151c-2792-498c-9a78-3096edc8175c&pbi_source=linkShare&bookmarkGuid=edfa495c-1193-44b7-8466-c432280945fc
 
 
 
